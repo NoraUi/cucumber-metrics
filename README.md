@@ -9,5 +9,5 @@ documentation is available here: https://github.com/sgrillon14/cucumber-jvm/tree
 
 # License
 
-[![license](https://img.shields.io/github/license/NoraUi/cucumber-metrics.svg)](https://github.com/NoraUi/cucumber-metrics/blob/master/licence.txt)
-BSD, See License.txt for details
+[![license](https://img.shields.io/github/license/NoraUi/cucumber-metrics.svg)](https://github.com/NoraUi/cucumber-metrics/blob/master/LICENSE)
+BSD, See LICENSE for details
